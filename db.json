@@ -24,13 +24,13 @@
           {
             "id": 90,
             "name": "phan text co name 1",
-            "answer_is_correct": 1,
+            "answer_is_correct": 0,
             "order": 1
           },
           {
             "id": 91,
             "name": "phan text co name 2",
-            "answer_is_correct": 0,
+            "answer_is_correct": 1,
             "order": 2
           },
           {
