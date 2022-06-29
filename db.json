@@ -12,7 +12,7 @@
       "audio_id": null,
       "media_id": null,
       "media_url": null,
-      "audio_url": null,
+      "audio_url": "https://bstudy-dev.s3.ap-southeast-1.amazonaws.com/question/17cac4ae-1e36-48fe-9757-4fc59ed8eb14.m4a",
       "title": "TEST DELETE QUESTION",
       "word": "pronunciation",
       "type_question": "text",
