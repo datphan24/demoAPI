@@ -1,55 +1,11 @@
-[
-  {
-    "id": 2,
-    "quiz_id": 11,
-    "user_id": 28,
-    "question_id": 65,
-    "answerable_id": 90,
-    "question_times": 2,
-    "answer_is_correct": 0,
-    "question": {
-      "id": 65,
-      "audio_id": null,
-      "media_id": null,
-      "media_url": null,
-      "audio_url": null,
-      "title": "TEST DELETE QUESTION",
-      "word": "pronunciation",
-      "type_question": "text",
-      "type_word": "Noun",
-      "type_answer": "text",
-      "pronunciation": "/prÉ™.ËŒnÉ™nt.si.ËˆeÉª.ÊƒÉ™n/",
-      "answers": [
-        {
-          "id": 90,
-          "name": "phan text co name 1",
-          "answer_is_correct": 0,
-          "order": 1
-        },
-        {
-          "id": 91,
-          "name": "phan text co name 2",
-          "answer_is_correct": 1,
-          "order": 2
-        },
-        {
-          "id": 92,
-          "name": "phan text co name 3",
-          "answer_is_correct": 0,
-          "order": 3
-        },
-        {
-          "id": 93,
-          "name": "phan text co name 4",
-          "answer_is_correct": 0,
-          "order": 4
-        }
-      ],
-      "level": "A1",
-      "order": 1,
-      "status": 0,
-      "created_at": "2022-06-02 11:11:17",
-      "updated_at": "2022-06-02 11:11:17"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
     }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
